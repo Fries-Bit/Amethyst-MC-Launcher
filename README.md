@@ -22,3 +22,4 @@ The first release is officially downloadable <br>
 you can change your username at Launcher Settings under the welcoming <br>
 you can add mods and resourcepacks at the instance settings, that also includes the installation type, version and the instance name <br>
 create a new instance by pressing the plus (+) button <br>
+you can change the settings on the launcher itslef, just press Launcher Settings! You can change your username and more!
