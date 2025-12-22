@@ -3,4 +3,12 @@
 A launcher desinged to make minecraft players with no computer skills have a better expirience adding mods and resourcepacks<br>
 If the program does not respond whenever you run an instance, it is preparing and downloading files for the instance.<br>
 
-Thanks!
+## Backend error when searching
+whenever you're searching, you can get a 4** return, fx. 401, 400, etc. <br>
+here can you see the meaning of those codes in a list.
+
+```404: failed to connect to the servers, check your internet connection!```<br>
+
+```400: no search results, try searching with its name```<br>
+
+(these are occourred errors upon developing, if found more, please tell me in the Issues tab! Thanks!)
