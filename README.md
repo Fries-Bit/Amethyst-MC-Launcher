@@ -16,3 +16,9 @@ here can you see the meaning of those codes in a list.
 ## Updates
 
 The first release is officially downloadable <br>
+
+## Beginner Tutorial
+
+you can change your username at Launcher Settings under the welcoming <br>
+you can add mods and resourcepacks at the instance settings, that also includes the installation type, version and the instance name <br>
+create a new instance by pressing the plus (+) button <br>
