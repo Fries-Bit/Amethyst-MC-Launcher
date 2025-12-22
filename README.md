@@ -15,7 +15,8 @@ here can you see the meaning of those codes in a list.
 
 ## Updates
 
-The first release is officially downloadable <br>
+Fixed the constant code 400 error at the mods tab by rewriting the installation instances process. <br>
+Your already created instances will not be affected by this change.
 
 ## Beginner Tutorial
 
