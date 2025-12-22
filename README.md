@@ -3,6 +3,9 @@
 A launcher desinged to make minecraft players with no computer skills have a better expirience adding mods and resourcepacks<br>
 If the program does not respond whenever you run an instance, it is preparing and downloading files for the instance.<br>
 
+## REQUIREMENT!
+This program requires at least *Java 21* or higher. you can download it by pressing [here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252626_99a6cb9582554a09bd4ac60f73f9b8e6)
+
 ## Backend error when searching
 whenever you're searching, you can get a 4** return, fx. 401, 400, etc. <br>
 here can you see the meaning of those codes in a list.
