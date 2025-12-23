@@ -14,7 +14,7 @@ here can you see the meaning of those codes in a list.
 
 ```400: no search results, try searching with its name```<br>
 
-(these are occourred errors upon developing, if found more, please tell me in the Issues tab! Thanks!)
+(these are occurred errors upon developing, if found more, please tell me in the Issues tab! Thanks!)
 
 ## Updates
 
