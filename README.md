@@ -39,5 +39,5 @@ Lapis ore has no specific Y-level for different biomes etc, so 0 to -2 is the be
 
 **Diamond ore** which is the most likely you want, will be at -59 to -58, basically the deeper the better (TIP: try searching for diamonds in water caves since they dont count as air blocks!) <br>
 
-**Netherite** is a bit more tricky because they have different optimized Y-level from different platforms, 8 to 22 for Java or 8 and 120 for Bedrock, tho best at 15 on both versions <br>
+**Netherite** is a bit more tricky because they have different optimized Y-level from different platforms, 8 to 22 for Java or 8 and 120 for Bedrock, tho best at 15 on both platforms <br>
 <sub>*This information was searched on Google*</sub>
