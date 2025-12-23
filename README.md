@@ -35,9 +35,9 @@ Iron ore same as coal ore, ground level will be 16 while at higher levels will b
 
 Finding Gold ore at a badlands biome is much better than the rest of biomes, but underground will be around -64 to 32 while in badlands would be 32 to 256 <br>
 
-Lapis ore has no spicific Y-level for diffrent biomes etc, so 0 to -2 is the best <br>
+Lapis ore has no specific Y-level for different biomes etc, so 0 to -2 is the best <br>
 
 **Diamond ore** which is the most likely you want, will be at -59 to -58, basically the deeper the better (TIP: try searching for diamonds in water caves since they dont count as air blocks!) <br>
 
-**Netherite** is a bit more tricky because they have diffrent optimized Y-level from diffrent versions, 8 to 22 for Java or 8 and 120 for Bedrock, tho best at 15 on both versions <br>
+**Netherite** is a bit more tricky because they have different optimized Y-level from different versions, 8 to 22 for Java or 8 and 120 for Bedrock, tho best at 15 on both versions <br>
 <sub>*This information was searched on Google*</sub>
