@@ -23,10 +23,9 @@ Your already created instances will not be affected by this change.
 
 ## Beginner Tutorial
 
-you can change your username at Launcher Settings under the welcoming <br>
 you can add mods and resourcepacks at the instance settings, that also includes the installation type, version and the instance name <br>
 create a new instance by pressing the plus (+) button <br>
-you can change the settings on the launcher itself, just press Launcher Settings! You can change your username and more! <br>
+you can change the settings on the launcher itself, just press Launcher Settings! You can change your username and more! (This will require a restart, when changes are saved, it will close by itself)<br>
 
 ## Y-level for ores
 
