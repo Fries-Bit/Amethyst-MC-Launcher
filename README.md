@@ -26,4 +26,19 @@ Your already created instances will not be affected by this change.
 you can change your username at Launcher Settings under the welcoming <br>
 you can add mods and resourcepacks at the instance settings, that also includes the installation type, version and the instance name <br>
 create a new instance by pressing the plus (+) button <br>
-you can change the settings on the launcher itself, just press Launcher Settings! You can change your username and more!
+you can change the settings on the launcher itself, just press Launcher Settings! You can change your username and more! <br>
+
+## Y-level for ores
+
+Coal ore is about 96 at normal ground level, but at high level which is even better will be 136! <br>
+ 
+Iron ore same as coal ore, ground level will be 16 while at higher levels will be 232 <br>
+
+Finding Gold ore at a badlands biome is much better than the rest of biomes, but underground will be around -64 to 32 while in badlands would be 32 to 256 <br>
+
+Lapis ore has no spicific Y-level for diffrent biomes etc, so 0 to -2 is the best <br>
+
+**Diamond ore** which is the most likely you want, will be at -59 to -58, basically the deeper the better (TIP: try searching for diamonds in water caves since they dont count as air blocks!) <br>
+
+**Netherite** is a bit more tricky because they have diffrent optimized Y-level from diffrent versions, 8 to 22 for Java or 8 and 120 for Bedrock, tho best at 15 on both versions <br>
+<sub>*This information was searched on Google*</sub>
