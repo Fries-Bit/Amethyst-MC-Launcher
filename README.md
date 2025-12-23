@@ -7,7 +7,7 @@ If the program does not respond whenever you run an instance, it is preparing an
 This program requires at least *Java 21* or higher. you can download it by pressing [here](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252626_99a6cb9582554a09bd4ac60f73f9b8e6)
 
 ## Backend error when searching
-whenever you're searching, you can get a 4** return, fx. 401, 400, etc. <br>
+whenever you're searching, you can get a 4** return, eg. 401, 400, etc. <br>
 here can you see the meaning of those codes in a list.
 
 ```404: failed to connect to the servers, check your internet connection!```<br>
